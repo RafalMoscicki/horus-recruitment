@@ -1,8 +1,0 @@
-pl/rmoscicki/horus/recruitment/Block.java
- pl.rmoscicki.horus.recruitment.Block
-pl/rmoscicki/horus/recruitment/CompositeBlock.java
- pl.rmoscicki.horus.recruitment.CompositeBlock
-pl/rmoscicki/horus/recruitment/Structure.java
- pl.rmoscicki.horus.recruitment.Structure
-pl/rmoscicki/horus/recruitment/Wall.java
- pl.rmoscicki.horus.recruitment.Wall

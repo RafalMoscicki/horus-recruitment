@@ -1,2 +1,0 @@
-pl/rmoscicki/horus/recruitment/WallTest.java
- pl.rmoscicki.horus.recruitment.WallTest
